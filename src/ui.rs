@@ -9,8 +9,6 @@ use log::{error, info, Level, Log, Metadata, Record};
 use crate::core::{execute_dump, DumpConfig};
 use crate::parser;
 
-// ── In-app logger ─────────────────────────────────────────────────────────────
-
 #[derive(Clone)]
 pub struct LogLine {
     pub level: Level,
