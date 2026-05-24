@@ -1,16 +1,19 @@
 # Modified-A2x-Dumper
 
-A modified version of a2x's CS2 dumper with added features, usability improvements, and various custom modifications.
+A custom modified version of a2x’s CS2 dumper.
 
 ## Features
 
-* Added graphical user interface
+* Added a graphical user interface (using egui)
 * Simplified dumping workflow
 * Cleaner and easier-to-read output
-* Additional tweaks and improvements
-* Improved overall usability
+* Automatic offset header updating after dumps
+* Various quality-of-life improvements
+* Improved overall usability and organization
 
 ## Credits
 
-Original project by [a2x](https://github.com/a2x).
-This repository contains a modified/custom version of [cs2-dumper](https://github.com/a2x/cs2-dumper) for educational and research purposes.
+Original project by [a2x](https://github.com/a2x?utm_source=chatgpt.com).
+Based on [cs2-dumper](https://github.com/a2x/cs2-dumper?utm_source=chatgpt.com).
+
+This repository contains a modified/custom version of cs2-dumper intended for educational and research purposes.
