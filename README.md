@@ -7,7 +7,7 @@ A custom modified version of a2x’s CS2 dumper.
 * Added a graphical user interface (using egui)
 * Simplified dumping workflow
 * Cleaner and easier-to-read output
-* Automatic offset header updating after dumps
+* Automatic offset updating after dumps
 * Various quality-of-life improvements
 * Improved overall usability and organization
 
